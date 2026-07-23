@@ -1,0 +1,37 @@
+00:00–00:30 — Escena 1 — Introducción y definición
+- Visual: primer plano de una persona abriendo la puerta de una bodega/galpón polvoriento; polvo en suspensión; transición a animación microscópica del virus y un roedor silvestre de cola larga.
+- Voz (narrador, tono claro y alerta):
+  "¿Sabías que un lugar cerrado por mucho tiempo puede esconder un riesgo invisible? Hablemos del hantavirus.
+  Según la OPS y la OMS, el hantavirus es una enfermedad zoonótica grave transmitida por roedores silvestres; no se refiere a los ratones domésticos, sino a especies silvestres que portan el virus."
+- Texto en pantalla: Hantavirus — Enfermedad zoonótica (OPS / OMS)
+
+00:30–00:55 — Escena 2 — Vías de transmisión
+- Visual: heces/orina/saliva secas en el suelo; persona barriendo; polvo se eleva; animación mostrando partículas en el aire entrando por la nariz.
+- Voz:
+  "¿Cómo se contagia? Principalmente por inhalación de aerosoles. Cuando la orina, saliva o heces secas del roedor se mezclan con polvo y las levantamos al barrer o aspirar, podemos inhalar partículas con el virus.
+  En menor medida, puede transmitirse por mordeduras o al tocar superficies contaminadas y acercarnos las manos a la boca, nariz u ojos."
+- Texto en pantalla (viñetas): Inhalación de polvo • Mordeduras • Contacto mano‑ojos/boca
+
+00:55–01:20 — Escena 3 — Síntomas leves (etapa inicial)
+- Visual: persona con malestar general: se toca la frente, toma la temperatura, se masajea la espalda; viñetas con iconos.
+- Voz:
+  "Los síntomas suelen aparecer entre 1 y 6 semanas tras la exposición. En su etapa inicial se parecen a una gripe fuerte: fiebre alta y escalofríos, dolores musculares intensos (especialmente en espalda y muslos), dolor de cabeza, mareos y molestias estomacales como náuseas o vómitos."
+- Texto en pantalla (líneas breves): Fiebre • Dolores musculares • Dolor de cabeza • Náuseas / Vómitos
+
+01:20–01:50 — Escena 4 — Síntomas graves (SPHV)
+- Visual: ilustración médica destacando pulmones y corazón; corte a ambulancia/sala de emergencias con personal atendiendo.
+- Voz:
+  "Si la enfermedad progresa puede desarrollarse el Síndrome Pulmonar por Hantavirus (SPHV). Aparecen dificultad respiratoria severa, tos seca, sensación de falta de aire y presión en el pecho. Esta fase puede evolucionar rápidamente y requiere atención médica e internación en cuidados intensivos de inmediato."
+- Texto en pantalla: SPHV — Urgencia médica
+
+01:50–02:20 — Escena 5 — Medidas de prevención
+- Visual: montaje de buenas prácticas: abrir ventanas, rociar con solución, usar guantes/mascarilla, sellar grietas, guardar alimentos en envases herméticos.
+- Voz:
+  "La prevención es la mejor herramienta. Siga estas recomendaciones de la OPS: ventile lugares cerrados al menos 30 minutos antes de entrar; no barra en seco: humedezca el polvo con agua y cloro antes de limpiar; use guantes y mascarilla si va a manipular zonas con presencia de roedores; selle grietas y agujeros por donde puedan entrar roedores; y guarde alimentos y basura en recipientes herméticos."
+- Texto en pantalla (iconos + texto): Ventilar 30 min • Humedecer antes de limpiar • Usar guantes/mascarilla • Sellar grietas • Alimentos herméticos
+
+02:20–02:30 — Escena 6 — Cierre y recomendación final
+- Visual: placa de cierre con logotipos (OPS / OMS / Ministerio del Poder Popular para la Salud de Venezuela) y texto de llamada a la acción.
+- Voz:
+  "Si tienes síntomas después de haber estado en zonas rurales o en lugares con roedores silvestres, acude de inmediato al centro de salud más cercano. ¡Cuidarnos es tarea de todos!"
+- Texto en pantalla: "Acude al centro de salud • Fuentes: OPS / OMS"
