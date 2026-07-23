@@ -1,0 +1,3 @@
+TTS_sample_placeholder.txt
+
+Este archivo indica que los archivos de audio de muestra aún no han sido generados. Usa los scripts en tts_samples/ para producir las muestras.
