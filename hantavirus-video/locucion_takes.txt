@@ -1,0 +1,53 @@
+Locución para video "Hantavirus" — Voz femenina, español latino neutro
+Formato: tomar cada bloque como un "take" independiente; mantener ritmo claro y pausado, con pequeñas pausas al final de frases y al enumerar.
+
+00:00–00:30 — Escena 1 — Introducción y definición
+Take 1 (00:00–00:12)
+"¿Sabías que un lugar cerrado por mucho tiempo puede esconder un riesgo invisible? Hablemos del hantavirus." 
+
+Take 2 (00:12–00:30)
+"Según la OPS y la OMS, el hantavirus es una enfermedad zoonótica grave transmitida por roedores silvestres; no se refiere a los ratones domésticos, sino a especies silvestres que portan el virus." 
+
+00:30–00:55 — Escena 2 — Vías de transmisión
+Take 3 (00:30–00:42)
+"¿Cómo se contagia? Principalmente por inhalación de aerosoles. Cuando la orina, saliva o heces secas del roedor se mezclan con polvo y las levantamos al barrer o aspirar, podemos inhalar partículas con el virus." 
+
+Take 4 (00:42–00:55)
+"En menor medida, puede transmitirse por mordeduras o al tocar superficies contaminadas y acercarnos las manos a la boca, nariz u ojos." 
+
+00:55–01:20 — Escena 3 — Síntomas leves (etapa inicial)
+Take 5 (00:55–01:02)
+"Los síntomas suelen aparecer entre una y seis semanas tras la exposición." 
+
+Take 6 (01:02–01:20)
+"En su etapa inicial se parecen a una gripe fuerte: fiebre alta y escalofríos, dolores musculares intensos —especialmente en la espalda y los muslos—, dolor de cabeza, mareos y molestias estomacales como náuseas o vómitos." 
+
+01:20–01:50 — Escena 4 — Síntomas graves (SPHV)
+Take 7 (01:20–01:30)
+"Si la enfermedad progresa, puede desarrollarse el Síndrome Pulmonar por Hantavirus, o SPHV." 
+
+Take 8 (01:30–01:50)
+"Aparecen dificultad respiratoria severa, tos seca, sensación de falta de aire y presión en el pecho. Esta fase puede evolucionar rápidamente y requiere atención médica e internación en cuidados intensivos de inmediato." 
+
+01:50–02:20 — Escena 5 — Medidas de prevención
+Take 9 (01:50–02:00)
+"La prevención es la mejor herramienta. Siga estas recomendaciones de la OPS: ventile los lugares cerrados al menos treinta minutos antes de entrar." 
+
+Take 10 (02:00–02:08)
+"No barra en seco: humedezca el polvo con una solución de agua y cloro antes de limpiar." 
+
+Take 11 (02:08–02:14)
+"Use guantes y mascarilla si va a manipular zonas con presencia de roedores." 
+
+Take 12 (02:14–02:20)
+"Selle grietas y agujeros por donde puedan entrar roedores, y guarde alimentos y basura en recipientes herméticos." 
+
+02:20–02:30 — Escena 6 — Cierre y recomendación final
+Take 13 (02:20–02:30)
+"Si tienes síntomas después de haber estado en zonas rurales o en lugares con roedores silvestres, acude de inmediato al centro de salud más cercano. ¡Cuidarnos es tarea de todos!" 
+
+Instrucciones para la locutora / TTS
+- Tono: informativo, cercano, tranquilo pero con urgencia moderada en frases de emergencia (SPHV, atención inmediata). 
+- Ritmo: claro y pausado; permitir respiraciones naturales entre frases; no dramático. 
+- Pronunciación: español latino neutro; evitar modismos regionales. 
+- Entregables de locución: archivo WAV sin compresión (48 kHz / 24‑bit) y versiones de cada take por separado y una versión con la locución completa ya ensamblada.
