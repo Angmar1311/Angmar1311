@@ -1,0 +1,41 @@
+Production manifest — Video "Hantavirus" (confirmed choices)
+
+Estado: Autorización recibida para producción externa y uso de logos.
+
+Decisiones del cliente:
+- Paquete: B (producción del video final)
+- Voz: TTS de alta calidad, voz femenina, español latino neutro
+- Música: No (sin pista musical)
+- Versiones: 16:9 (1920x1080) y 9:16 (1080x1920)
+- Subtítulos: No incluir subtítulos quemados ni SRT
+- Logos: proporcionados por el cliente. Orden de aparición en la placa final (izquierda→derecha / secuencia temporal):
+  1) OMS
+  2) Ministerio del Poder Popular para la Salud (MPPS)
+  3) Secretaría de Salud Falcón
+
+Entregables previstos:
+- MP4 1920x1080, H.264, alta calidad
+- MP4 1080x1920 (vertical), H.264
+- WAV de la locución (48 kHz / 24-bit)
+- Miniatura JPG
+- Archivo de créditos en texto (.txt)
+- Carpeta final con todos los archivos en hantavirus-video/dist/ en el repo (si procede)
+
+Flujo de trabajo y plan de acción inmediato:
+1) Generar muestra TTS (2–3 frases) y subir como WAV para revisión — objetivo: ~1 hora.
+2) Tras aprobación de la muestra, generar locución completa WAV y crear montaje preliminar 16:9.
+3) Revisión preliminar por parte del cliente (envío de enlace de visualización). Se aceptan hasta 2 rondas de cambio menores (tiempo adicional aplicable).
+4) Render final 16:9 y 9:16, paquete de entregables, subida a hantavirus-video/dist/.
+
+Plazos estimados:
+- Muestra TTS: ~1 hora
+- Montaje preliminar: 12–24 h tras aprobación de la muestra
+- Versión final: 24–48 h tras aprobación del montaje preliminar
+
+Notas técnicas:
+- Códec: H.264 (MP4), audio WAV 48kHz/24-bit
+- Frames: 25 fps (PAL) o 30 fps (NTSC) — usaré 25 fps por defecto salvo que indiques lo contrario.
+- Recursos: usaré las imágenes de logos que proporcionaste; si subes versiones en vector (SVG/EPS) las reemplazo para mayor calidad.
+
+Contacto y seguimiento:
+- Entregaré actualizaciones aquí en el repositorio y en la conversación. Si prefieres que use otro canal para intercambio de archivos grandes, indícalo.
